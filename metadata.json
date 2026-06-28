@@ -1,0 +1,6 @@
+{
+  "name": "Fake News Detector Portfolio",
+  "description": "An interactive machine learning portfolio showcasing text preprocessing, TF-IDF vectorization, and model training (Logistic Regression & Passive-Aggressive) for fake news detection, with exportable Python/Streamlit project files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
